@@ -1,4 +1,4 @@
-name: 🔍 Username Scan
+name: lolii_vidal
 
 on:
   workflow_dispatch:
@@ -8,7 +8,8 @@ on:
         required: true
         type: string
       no_nsfw:
-        description: "Skip NSFW sites"
+        description:
+      
         required: false
         default: true
         type: boolean
