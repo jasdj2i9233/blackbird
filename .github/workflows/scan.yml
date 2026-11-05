@@ -3,7 +3,7 @@ name: 🔍 Username Scan
 on:
   workflow_dispatch:
     inputs:
-      username:
+      username: lolii_vidal
         description: "Username to search"
         required: true
         type: string
